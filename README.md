@@ -33,4 +33,28 @@ Here are three simple and beginner-friendly Python projects that will help you l
 
 ---
 
-Would you like detailed code examples or guidance on how to start one of them?
+Here are some beginner-friendly projects that focus specifically on learning **classes** and **functions** in Python. Each one involves creating and interacting with your own custom objects.
+
+---
+
+### 4. **Bank Account Simulator**
+
+* **Concepts:** Classes, methods, instance variables
+* **What to build:**
+
+  * `BankAccount` class with methods: `deposit()`, `withdraw()`, `check_balance()`
+  * Track account holder's name and balance
+* **Bonus:** Add overdraft protection or transaction history
+
+---
+
+### 5. **Car Class Simulation**
+
+* **Concepts:** OOP, methods, state management
+* **What to build:**
+
+  * `Car` class with attributes like `make`, `model`, `year`, `speed`
+  * Methods like `accelerate()`, `brake()`, `display_info()`
+* **Bonus:** Add a `Garage` class that can hold multiple `Car` objects
+
+---
